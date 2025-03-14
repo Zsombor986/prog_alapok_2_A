@@ -12,3 +12,30 @@ h1
     font-size: 100px!important;
     text-align: center;
 }
+
+.fk{
+    font-weight: bold;
+}
+
+.fekete{
+color: black;
+}
+
+.kek{
+color: blue;
+}
+
+.zold{
+color: green;
+}
+
+.piros{
+color: red;
+}
+.meret{
+   
+}
+
+.tavolsag{
+    height: 100px;
+}
